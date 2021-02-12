@@ -12,6 +12,6 @@ _* Is it dangerous?_
 
 Then I started to think that someone would create a programe which takes picture and tells what insect can it be. And suddenly: I could try to do this! It'll be great opportunity to develop my skills!
 
-So..
+So...
 
 Bug Project will be a deep learning program which takes a picture of a caterpillar and tells what is the name of this species.
