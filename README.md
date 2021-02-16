@@ -15,3 +15,5 @@ Then I started to think that someone would create a programe which takes picture
 So...
 
 Bug Project will be a deep learning program which takes a picture of a caterpillar and tells what is the name of this species.
+
+I just started this project, please be patient :)
