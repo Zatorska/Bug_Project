@@ -16,4 +16,6 @@ So...
 
 Bug Project will be a deep learning program which takes a picture of a caterpillar and tells what is the name of this species.
 
+In this Project I'll try to collect data using web scraping methods (in Python).
+
 I just started this project, please be patient :)
